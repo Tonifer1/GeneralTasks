@@ -1,7 +1,7 @@
-1. Suunnittelu (Pääkategoria)
+### 1. Suunnittelu (Pääkategoria)
 Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä ja käyttäjäpolut.
 
-Tasks:
+## Tasks:
 1.1 ER-mallinnus
 
 Luo tietokannan ER-diagrammi.
@@ -24,15 +24,16 @@ Valitse tietokanta (PostgreSQL).
 Luo kansiorakenne dokumentaatiolle.
 Määritä dokumentoinnin standardit.
 📝 Dokumentointi:
-
 ER-mallinnusdokumentti
 Use Case -dokumentti
 Käyttöliittymäprototyyppi
 Teknologiapäätökset
-🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: ? )
+
+
+### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: ? )
 Tavoite: Rakentaa palvelinpuolen toiminnot ja API-rajapinnat.
 
-Tasks:
+## Tasks:
 2.1 Perusta Django-projekti
 
 Luo perusprojekti ja konfiguroi tietokantayhteys.
@@ -49,14 +50,17 @@ Perustestit API-endpointeille.
 
 Päivitä README.md back-endin ohjeilla.
 Luo tekninen dokumentaatio API:sta (esim. Swagger).
+
 📝 Dokumentointi:
 
 Back-endin README.md
 API-dokumentaatio
-💻 3. Front-end Ohjelmointi (Vastuuhenkilöt: ? & ?)
+
+
+### 💻 3. Front-end Ohjelmointi (Vastuuhenkilöt: ? & ?)
 Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 
-Tasks:
+## Tasks:
 3.1 Perusta React Vite -projekti
 
 Luo perusprojekti ja määritä kansiorakenne.
@@ -81,10 +85,11 @@ Käyttöliittymän dokumentaatio.
 
 Front-endin README.md
 Käyttöliittymän dokumentaatio
-🔌 4. Integrointi ja Testaus
+
+### 🔌 4. Integrointi ja Testaus
 Tavoite: Varmistaa, että Back-end ja Front-end toimivat yhdessä saumattomasti.
 
-Tasks:
+## Tasks:
 4.1 Yhdistä Front-end ja Back-end
 
 Testaa API-kutsut ja tietokantayhteydet.
@@ -107,7 +112,7 @@ Yhdistetyn sovelluksen dokumentaatio
 🚀 5. Julkaisu ja Käyttöönotto
 Tavoite: Julkaista sovellus ja varmistaa sen toimivuus tuotantoympäristössä.
 
-Tasks:
+## Tasks:
 5.1 Julkaise Back-end (Azure)
 
 5.2 Julkaise Front-end (Azure)
@@ -123,10 +128,11 @@ Luo ohjeet ylläpitoon ja käyttöönottoon.
 
 Julkaisudokumentaatio
 Käyttöönotto-ohjeet
-📑 6. Dokumentointi ja Loppuraportti
+
+### 📑 6. Dokumentointi ja Loppuraportti
 Tavoite: Koota koko projektin dokumentaatio ja luoda loppuraportti.
 
-Tasks:
+## Tasks:
 6.1 Kokoa kaikki dokumentit yhteen
 
 6.2 Luo loppuraportti
@@ -142,10 +148,11 @@ Tekninen arviointi
 
 Loppuraportti
 Dokumenttipaketti
-🧠 7. Retrospektiivi
+
+### 🧠 7. Retrospektiivi
 Tavoite: Arvioida projektin onnistumista ja tunnistaa kehityskohteet.
 
-Tasks:
+## Tasks:
 7.1 Pidä retrospektiivipalaveri
 
 Käy läpi, mikä toimi hyvin ja mitä voidaan parantaa.
