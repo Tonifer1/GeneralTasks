@@ -1,4 +1,4 @@
-### 1. Suunnittelu (Pääkategoria)
+### 1. Suunnittelu 
 Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä ja käyttäjäpolut.
 
 ## Tasks:
