@@ -17,7 +17,7 @@ Määritä tärkeimmät käyttöliittymäkomponentit.
 1.4 Teknologioiden valinta
 Valittu Back-end (Django REST Framework). Done
 Valittu Front-end (React Vite).  Done
-Valittu tietokanta (PostgreSQL).  Done
+Valitaan tietokanta (PostgreSQL tai Microsoft SQL).
 
 1.5 Projektin dokumentointi
 Luo kansiorakenne dokumentaatiolle.
