@@ -15,11 +15,19 @@ Luo käyttöliittymän hahmotelma (Figma tai vastaava).
 Määritä tärkeimmät käyttöliittymäkomponentit.
 
 1.4 Teknologioiden valinta
-Valittu Back-end (Django REST Framework). Done
-Valittu Front-end (React Vite).  Done
-Valitaan tietokanta (PostgreSQL tai Microsoft SQL).
+Valittu Back-end (Django REST Framework)
+Valittu Front-end (React Vite) 
+Valittu tietokanta  (Microsoft SQL) 
 
 1.5 Projektin dokumentointi
+
+1.6 Sisällön kerääminen:
+Ohjelmistot ja Alustat
+
+1.7 Sisällön kerääminen:
+Ohjelmointi
+
+
 Luo kansiorakenne dokumentaatiolle.
 Määritä dokumentoinnin standardit.
 📝 Dokumentointi:
@@ -29,7 +37,7 @@ Käyttöliittymäprototyyppi
 Teknologiapäätökset Done
 
 
-### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: ? )
+### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: Jani )
 Tavoite: Rakentaa palvelinpuolen toiminnot ja API-rajapinnat.
 
 ## Tasks:
@@ -53,7 +61,7 @@ Back-endin README.md
 API-dokumentaatio
 
 
-### 💻 3. Front-end Ohjelmointi (Vastuuhenkilöt: ? & ?)
+### 💻 3. Front-end Ohjelmointi (Vastuuhenkilöt: Toni & Valter)
 Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 
 ## Tasks:
