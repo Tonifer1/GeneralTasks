@@ -102,7 +102,10 @@ End-to-end (E2E) testit
 Korjaa löydetyt virheet.
 Optimoi suorituskyky.
 
-4.4 Dokumentointi
+4.4 Automatisointi
+ CI/CD putket
+
+4.5 Dokumentointi
 Testausraportit
 Yhdistetyn sovelluksen dokumentaatio
 📝 Dokumentointi:
