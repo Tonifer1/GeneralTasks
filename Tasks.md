@@ -30,6 +30,7 @@ Ohjelmointi
 
 Luo kansiorakenne dokumentaatiolle.
 Määritä dokumentoinnin standardit.
+
 📝 Dokumentointi:
 ER-mallinnusdokumentti
 Use Case -dokumentti
@@ -113,6 +114,7 @@ Yhdistetyn sovelluksen dokumentaatio
 
 Testiraportit
 Yhdistetyn sovelluksen dokumentaatio
+
 🚀 5. Julkaisu ja Käyttöönotto
 Tavoite: Julkaista sovellus ja varmistaa sen toimivuus tuotantoympäristössä.
 
