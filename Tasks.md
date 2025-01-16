@@ -87,7 +87,7 @@ Käyttöliittymän dokumentaatio.
 Front-endin README.md
 Käyttöliittymän dokumentaatio
 
-### 🔌 4. Integrointi ja Testaus
+### 🔌 4. Integrointi ja Testaus (Vastuuhenkilöt: Toni, Valter, Jani)
 Tavoite: Varmistaa, että Back-end ja Front-end toimivat yhdessä saumattomasti.
 
 ## Tasks:
