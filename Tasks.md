@@ -1,41 +1,38 @@
 ### 1. Suunnittelu 
-Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä ja käyttäjäpolut.
+Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä, sisältö ja käyttäjäpolut.
 
 ## Tasks:
 1.1 ER-mallinnus
-Luo tietokannan ER-diagrammi.
+Luo tietokannan ER-kaavio.-->Suunnittelukuvasto
+Luo Luokkamalli (Class Diagram)-->Suunnittelukuvasto
 Määritä tietokantataulut ja niiden väliset yhteydet.
 
-1.2 Use Case -kaavio
-Määritä tärkeimmät käyttäjäpolut.
-Dokumentoi käyttäjäroolit ja niiden oikeudet.
 
-1.3 Käyttöliittymän Prototyyppi (Wireframe)
-Luo käyttöliittymän hahmotelma (Figma tai vastaava).
+1.2 Use Case -Flow
+Luo käyttöliittymän hahmotelma (Power Point).-->Määrittelykuvasto Done
+Luo hahmotelma komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto
 Määritä tärkeimmät käyttöliittymäkomponentit.
 
+1.3
+Käyttöliittymän Prototyyppi 
+Määritä tärkeimmät käyttäjäpolut.(Content Map).-->Suunnittelukuvasto
+Dokumentoi käyttäjäroolit ja niiden oikeudet.
+
 1.4 Teknologioiden valinta
-Valittu Back-end (Django REST Framework)
-Valittu Front-end (React Vite) 
-Valittu tietokanta  (Microsoft SQL) 
+Valittu Back-end (Django REST Framework) Done
+Valittu Front-end (React Vite) Done
+Valittu tietokanta  (Microsoft SQL) Done
 
 1.5 Projektin dokumentointi
+Luo kansiorakenne dokumentaatiolle. Done
+Määritä dokumentoinnin standardit. Done
 
-1.6 Sisällön kerääminen:
-Ohjelmistot ja Alustat
+1.6 Ohjelmistot ja Alustat
+Sisällön kerääminen.-->Määrittelykuvasto Done
 
-1.7 Sisällön kerääminen:
-Ohjelmointi
+1.7 Ohjelmointi
+Sisällön kerääminen.-->Määrittelykuvasto Done
 
-
-Luo kansiorakenne dokumentaatiolle.
-Määritä dokumentoinnin standardit.
-
-📝 Dokumentointi:
-ER-mallinnusdokumentti
-Use Case -dokumentti
-Käyttöliittymäprototyyppi
-Teknologiapäätökset Done
 
 
 ### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: Jani )
