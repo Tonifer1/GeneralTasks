@@ -25,7 +25,7 @@ Node.js
 node -v
 Toni v20.17.0
 Jani v22.13.1 LTS
-Valter 20.10.0 
+Valter v22.13.1
 
 Vite (Projektikohtainen Tonilla. Asennettu 30.9 2024. Ei asennettuna globaalisti)
 npm list -g vite
