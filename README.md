@@ -33,7 +33,7 @@ nwreactvite@0.0.0 C:\React\nwReactVite
   │ └── vite@5.4.8 deduped
   └── vite@5.4.8 deduped
 
-## Kloonausohjeet
+## Kloonausohjeet Back-end
 git clone https://github.com/Jaspak1778/DevPal(tms).git 
 cd DevPal  # SIIRRYTÄÄN PROJEKTIKANSIOON, JONKA GIT LUO
 python -m venv venv 
