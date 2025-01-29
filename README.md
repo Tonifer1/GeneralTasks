@@ -34,11 +34,22 @@ nwreactvite@0.0.0 C:\React\nwReactVite
   └── vite@5.4.8 deduped
 
 ## Kloonausohjeet Back-end
-git clone https://github.com/Jaspak1778/DevPal(tms).git 
+git clone https://github.com/Jaspak1778/DevPal_RFM(tms).git 
 cd DevPal  # SIIRRYTÄÄN PROJEKTIKANSIOON, JONKA GIT LUO
 python -m venv venv 
 .\venv\Scripts\activate  # AKTIVOI VIRTUAALIYMPÄRISTÖN WINDOWSISSA
 pip install -r requirements.txt
+
+## Kloonausohjeet Front-end
+git clone https://github.com/Jaspak1778/DevPal_React(tms).git 
+cd DevPal  # SIIRRYTÄÄN PROJEKTIKANSIOON, JONKA GIT LUO
+npm install # Asennetaan riippuvuudet package.json-tiedoston mukaisesti.
+npm run dev # Kehitysympäristön käynnistys
+avaa:  Local: http://localhost:5173/
+
+
+
+
 
   
 
