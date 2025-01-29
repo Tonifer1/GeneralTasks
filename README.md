@@ -18,6 +18,7 @@ Django REST Framework (DRF)
 python -c "import rest_framework; print(rest_framework.__version__)"
 Toni 3.15.2
 Jani 3.15.2
+Valter 3.15.2
 
 
 Node.js
