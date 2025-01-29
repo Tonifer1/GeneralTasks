@@ -23,7 +23,7 @@ Valter 3.15.2
 
 Node.js
 node -v
-Toni v20.17.0
+Toni v22.13.1
 Jani v22.13.1 LTS
 Valter v22.13.1
 
