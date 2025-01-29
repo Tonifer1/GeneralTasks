@@ -81,7 +81,13 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 3.5 Autentikointi käyttöliittymässä
 -Kirjautuminen ja käyttäjänhallinta.
 
-3.6 Dokumentointi
+3.6 Määritä CSS-layout ja visuaalinen tyyli
+-Suunnittele sivujen peruslayout (esim. Flexbox, Grid).
+-Määritä CSS-tyylit ja komponenttien ulkoasu.
+-Lisää responsiivisuus ja mobiilioptimointi.
+-Määritä väriteemat, typografia ja painikkeiden tyylit.
+
+3.7 Dokumentointi
 Päivitä README.md front-endin ohjeilla.-->Sprint Back-log
 -Kuinka käynnistää React-sovellus paikallisesti.
 -Riippuvuuksien asentaminen (esim. npm install).
@@ -93,6 +99,11 @@ Käyttöliittymän dokumentaatio.-->Suunnittelukuvasto
 -Navigaatiorakenne (esim. sivut ja niiden väliset yhteydet).
 -Keskeiset käyttöliittymäelementit ja niiden käyttötarkoitus.
 -Käyttäjäpolut (miten käyttäjä liikkuu sovelluksessa).
+
+CSS Layout ja visuaalinen suunnittelu-->Suunnittelukuvasto
+-Kuvaa, miten ulkoasu ja tyylit on toteutettu.
+-Selittää, miten responsiivisuus on ratkaistu.
+-Määrittelee käytetyt CSS-teknologiat (CSS Modules, Tailwind, Styled Components?).
 
 
 ### 🔌 4. Integrointi ja Testaus (Vastuuhenkilöt: Toni, Valter, Jani)
@@ -136,15 +147,26 @@ Tavoite: Julkaista sovellus ja varmistaa sen toimivuus tuotantoympäristössä.
 5.2 Julkaise Front-end (Azure)
 
 5.3 Varmista turvallisuusasetukset
--HTTPS
--JWT-tokenit
+Salasanan hashaus:
+-SHA-256 / BCrypt (MD5 ei ole turvallinen, joten siirrytään vahvempaan salaukseen).
+-Toteutetaan Djangon sisäänrakennetulla make_password()-funktiolla tai BCrypt-kirjastolla.
+HTTPS:
+-Varmistetaan, että kaikki liikenne tapahtuu suojatun HTTPS-yhteyden kautta.
+JWT-tokenit:
+-Varmistetaan, että autentikointi käyttää turvallisia JWT-token-käytäntöjä (esim. HttpOnly-evästeet).
 
-5.4 Käyttöönotto-ohjeet
- Luo ohjeet ylläpitoon ja käyttöönottoon.-->Määrittelykuvasto
+
+5.4 Dokumentointi 
+Luo ohjeet ylläpitoon ja käyttöönottoon.-->Määrittelykuvasto
 -Tuotantoon liittyviä erityisohjeita.
 -Ympäristömuuttujat (esim. API-avaimet, tietokantayhteydet).
 -Mitä palveluita Azuresta käytetään (esim. App Service, SQL Database).
 -Ylläpito- ja päivitysprosessit.
+
+Tietoturvadokumentaatio.-->Määrittelykuvasto
+-Salasanan hashauksen toteutus ja käytetyt menetelmät.
+-JWT-tokenien käyttö ja varotoimet.
+-HTTPS:n vaatimukset ja asetukset.
 
 
 ### 📑 6. Dokumentointi ja Loppuraportti
