@@ -20,17 +20,20 @@ Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä, sisält
 -Valittu Front-end (React Vite) Done
 -Valittu tietokanta  (Microsoft SQL) Done
 
-1.5 Projektin dokumentointi
+1.5 Ohjelmistot ja Alustat
+-Sisällön kerääminen.-->Määrittelykuvasto Done
+
+1.6 Ohjelmointi
+-Sisällön kerääminen.-->Määrittelykuvasto Done
+
+1.7 Dokumentointi
 -Luo kansiorakenne dokumentaatiolle. Done
 -Määritä dokumentoinnin standardit. Done
-
-1.6 Ohjelmistot ja Alustat
--Sisällön kerääminen.-->Määrittelykuvasto Done
-
-1.7 Ohjelmointi
--Sisällön kerääminen.-->Määrittelykuvasto Done
-
-
+-Tietokannan ER-kaavio.-->Suunnittelukuvasto
+-Luokkamalli (Class Diagram)-->Suunnittelukuvasto
+-Käyttöliittymän hahmotelma (Power Point).-->Määrittelykuvasto Done
+-Hahmotelma komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto
+-Käyttäjäpolut.(Content Map).-->Suunnittelukuvasto
 
 ### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: Jani )
 Tavoite: Rakentaa palvelinpuolen toiminnot ja API-rajapinnat.
