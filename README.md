@@ -1,6 +1,6 @@
 # GeneralTasks
 General Tasks for Project 2025
-Versioiden tarkistus 29.01 2025
+## Versioiden tarkistus 29.01 2025
 
 Python
 python --version
@@ -32,5 +32,14 @@ nwreactvite@0.0.0 C:\React\nwReactVite
   ├─┬ vite-node@2.1.8
   │ └── vite@5.4.8 deduped
   └── vite@5.4.8 deduped
+
+## Kloonausohjeet
+git clone https://github.com/Jaspak1778/DevPal(tms).git 
+cd DevPal  # SIIRRYTÄÄN PROJEKTIKANSIOON, JONKA GIT LUO
+python -m venv venv 
+.\venv\Scripts\activate  # AKTIVOI VIRTUAALIYMPÄRISTÖN WINDOWSISSA
+pip install -r requirements.txt
+
+  
 
 
