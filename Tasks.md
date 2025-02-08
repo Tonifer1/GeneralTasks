@@ -8,11 +8,11 @@ Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä, sisält
 
 1.2 Use Case -Flow
 -Luo käyttöliittymän hahmotelma (Power Point).-->Määrittelykuvasto Done
--Luo hahmotelma komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto Toni?
+-Luo hahmotelma  React-komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto Done
 
 
 1.3 Käyttöliittymän Prototyyppi 
--Määritä tärkeimmät käyttäjäpolut.(Content Map).-->Suunnittelukuvasto Valter? 
+-Määritä tärkeimmät käyttäjäpolut.(Content Map).-->Suunnittelukuvasto Done 
 -Dokumentoi käyttäjäroolit ja niiden oikeudet.
 
 1.4 Teknologioiden valinta
