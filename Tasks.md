@@ -70,15 +70,21 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 ## Tasks:
 3.1 Perusta React Vite -projekti
 -Luo perusprojekti ja määritä kansiorakenne.
+- Toteuta staattisten sivujen sisältö
+- Testaa navigointia ohjelmassa
 
-3.2 Luo pääkomponentti
--Toteuta käyttöliittymän pohja ja navigointi.
+3.2 Luo Notes osio dynaamiselle puolelle
+-Toteuta Notes ja siihen liittyvät CRUD toiminnot.
 
-3.3 Yhdistä Back-endiin
+
+3.3 Luo Forum osio dynaamiselle puolelle
+-Toteuta Forum ja siihen liittyvät CRUD toiminnot.
+
+
+3.4 Yhdistä Back-endiin
 -Axios-yhteydet API:in.
 
-3.4 Toteuta CRUD-toiminnot käyttöliittymässä
--Tuotteiden hallinta
+3.4 Toteuta Login komponentti
 -Käyttäjien hallinta
 
 3.5 Autentikointi käyttöliittymässä
