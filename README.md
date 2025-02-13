@@ -50,7 +50,7 @@ python -m venv venv
 pip install -r requirements.txt
 
 ## Kloonausohjeet Front-end
-git clone https://github.com/Jaspak1778/DevPal_React(tms).git 
+git clone https://github.com/kyosho78/codeside.git 
 cd DevPal  # SIIRRYTÄÄN PROJEKTIKANSIOON, JONKA GIT LUO
 npm install # Asennetaan riippuvuudet package.json-tiedoston mukaisesti.
 npm run dev # Kehitysympäristön käynnistys
