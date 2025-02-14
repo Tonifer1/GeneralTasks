@@ -70,6 +70,8 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 ## Tasks:
 3.1 Perusta React Vite -projekti
 -Luo perusprojekti ja määritä kansiorakenne.
+
+3.11
 - Toteuta staattisten sivujen sisältö
 - Testaa navigointia ohjelmassa
 
