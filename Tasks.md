@@ -32,18 +32,18 @@ Tavoite: Määritellä projektin rakenne, tietokanta, käyttöliittymä, sisält
 -Tietokannan ER-kaavio.-->Suunnittelukuvasto
 -Luokkamalli (Class Diagram)-->Suunnittelukuvasto
 -Käyttöliittymän hahmotelma (Power Point).-->Määrittelykuvasto Done
--Hahmotelma komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto
--Käyttäjäpolut.(Content Map).-->Suunnittelukuvasto
+-Hahmotelma komponenttien hierarkiasta.(Power Point)-->Suunnittelukuvasto Done
+-Käyttäjäpolut.(Content Map).-->Suunnittelukuvasto Done
 
 ### 🖥️ 2. Back-end Ohjelmointi (Vastuuhenkilö: Jani )
 Tavoite: Rakentaa palvelinpuolen toiminnot ja API-rajapinnat.
 
 ## Tasks:
 2.1 Perusta Django-projekti
--Luo perusprojekti ja konfiguroi tietokantayhteys.
+-Luo perusprojekti ja konfiguroi tietokantayhteys. Done
 
 2.2 Luo CRUD-toiminnot
--Luo tietokantataulut ja CRUD-rajapinnat.
+-Luo tietokantataulut ja CRUD-rajapinnat. Done
 
 2.3 Toteuta Autentikointi (JWT)
 -Käyttäjätunnistus ja salasanan hashays (MD5 → SHA-256).
@@ -69,10 +69,10 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 
 ## Tasks:
 3.1 Perusta React Vite -projekti
--Luo perusprojekti ja määritä kansiorakenne.
+-Luo perusprojekti ja määritä kansiorakenne. Done
 
 3.11
-- Toteuta staattisten sivujen sisältö
+- Toteuta staattisten sivujen sisältö Done
 - Testaa navigointia ohjelmassa
 
 3.2 Luo Notes osio dynaamiselle puolelle
