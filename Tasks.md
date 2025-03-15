@@ -76,7 +76,7 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 - Testaa navigointia ohjelmassa
 
 3.2 Luo Notes osio dynaamiselle puolelle
--Toteuta Notes ja siihen liittyvät CRUD toiminnot.
+-Toteuta Notes ja siihen liittyvät CRUD toiminnot. Done
 
 
 3.3 Luo Forum osio dynaamiselle puolelle
@@ -121,7 +121,7 @@ CSS Layout ja visuaalinen suunnittelu-->Suunnittelukuvasto
 Tavoite: Varmistaa, että Back-end ja Front-end toimivat yhdessä saumattomasti.
 
 ## Tasks:
-4.1 Yhdistä Front-end ja Back-end
+4.1 Yhdistä Front-end ja Back-end 
 
 Testaa API-kutsut ja tietokantayhteydet.
 4.2 Testaa sovellus
@@ -153,7 +153,7 @@ Yhdistetyn sovelluksen dokumentaatio-->Suunnittelukuvasto
 Tavoite: Julkaista sovellus ja varmistaa sen toimivuus tuotantoympäristössä.
 
 ## Tasks:
-5.1 Julkaise Back-end (Azure)
+5.1 Julkaise Back-end (Azure) Done
 
 5.2 Julkaise Front-end (Azure)
 
