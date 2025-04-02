@@ -91,6 +91,8 @@ Tavoite: Rakentaa käyttöliittymä, joka kommunikoi Back-endin kanssa.
 
 3.5 Autentikointi käyttöliittymässä
 -Kirjautuminen ja käyttäjänhallinta.
+-Rekisteröityminen
+-Salasanan palautus
 
 3.6 Määritä CSS-layout ja visuaalinen tyyli
 -Suunnittele sivujen peruslayout (esim. Flexbox, Grid).
