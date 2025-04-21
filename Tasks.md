@@ -157,7 +157,7 @@ Tavoite: Julkaista sovellus ja varmistaa sen toimivuus tuotantoympäristössä.
 ## Tasks:
 5.1 Julkaise Back-end (Azure) Done
 
-5.2 Julkaise Front-end (Azure)
+5.2 Julkaise Front-end (Azure) Done
 
 5.3 Varmista turvallisuusasetukset
 Salasanan hashaus:
